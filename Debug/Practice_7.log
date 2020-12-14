@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+F:\C++ projects\Practice_7\Header.h(65,14): warning C4677: order: сигнатура члена, не являющегося частным, содержит частный тип сборки "Order"
+F:\C++ projects\Practice_7\Header.h(9): message : см. объявление "Order"
+F:\C++ projects\Practice_7\Header.h(70,10): warning C4677: Customer: сигнатура члена, не являющегося частным, содержит частный тип сборки "Order"
+F:\C++ projects\Practice_7\Header.h(9): message : см. объявление "Order"
+  Header.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Practice_7.vcxproj -> F:\C++ projects\Practice_7\Debug\Practice_7.exe
